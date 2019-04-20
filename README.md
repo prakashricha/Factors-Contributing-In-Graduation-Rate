@@ -1,6 +1,6 @@
 # Factors contributing to Graduation Rates 
 
-Analyze the Graduation rate in NEW JERSEY public schools on factors such as 
+Analyzed Graduation rate in NEW JERSEY public schools on factors such as 
 
 * Population
 * Demographics
