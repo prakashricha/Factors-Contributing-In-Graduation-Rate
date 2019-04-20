@@ -1,0 +1,53 @@
+Factors Contributing to Graduation Rates in New Jersey Schools
+
+Team:
+
+– Kimberly Andersen
+– Deepali Khaparde
+– Adriana Kopf
+– Richa Prakash
+– Raghi Ramachandran
+
+Note: charts in our presentation don’t necessarily fall in this order.  The questions are roughly the order in which they occurred to us, whereas the PowerPoint shows the timeline and conclusion of the analysis itself.
+
+Our Questions:
+
+
+Part 1:  Contributing Factors in the Cities:
+
+Population
+
+- We did not find a correlation between population and graduation rate.  However, while disappointing, this comparison reminded us that sometimes the factors that we THINK will work in our favor don’t necessarily.  This forced us to broaden our thinking, and to come up with even more potential correlations than we feel we would have otherwise. 
+
+Demographics
+
+- There was a correlation between demographics and graduation rate.  So this lead us to look at factors not causing demographics, but perhaps accompanying them.
+
+Income and Poverty Rates
+
+- And here they were.  We were thinking of this as two different datasets until Vikas told one member of our group “that’s the same thing.”  Oh, well.  Still, we presented both because the income level dropped predictably in a clear pattern, whereas the poverty level showed a very small upward trend and then for the last city, sharply rose to 30%,   which we found interesting.
+
+
+Part 2: Contributing Factors in the Schools
+
+Teachers’ Salaries
+
+- We were told we would not find much of a comparison for teacher’s salaries and that turned out to be true.  However, since the State also had datasets for administrators and superintendents, we decided to use those as well.  
+
+
+Administrators’ Salaries and Superintendents’ Salaries
+
+- This was interesting in that the administrators’ salaries were higher than we expected in the lower performing schools, but the real eye opener was the superintendents’ salaries.  In the two lowest schools, they were as high or higher than the salaries of the superintendents in the highest performing schools.  When one of our team members mentioned this to a very wise man in our class, he pointed out that this was most likely because challenges in being the head of a low performing school district most likely lead to superintendents demanding a higher salary in order to take the job.  We went with that.
+
+Teacher Effectiveness
+
+- Because teachers’ salaries didn’t offer us a comparison, we went looking for something that did.  In this area, we believe that teachers who have more experience are perhaps hired by lower performing schools in order to help pull the schools up to better performance levels.
+
+Dropout Rates
+
+- Obviously there would be a logical and a mathematical comparison here; the more students who drop out, the lower the graduation rate will be.  However, we felt the trend was so steep and so compelling that it was worth mentioning.
+
+Conclusion
+
+- The highest contributor to low graduation rates was dropout rate; but again, because this is a direct result comparison, and we don’t know (nor was it within our scope to explore) the factors leading to high dropout rates, so we feel that income is the most prevalent component affecting graduation rates in New Jersey.  The question becomes, are the high income schools performing well because the citizenry has the ability to pay higher property taxes and thereby more money is going to schools which allow for better books, technology, etc.?  Or are people with high incomes attracted to the best schools, which happen to be in the higher income districts?  Most likely both.  It’s a virtuous cycle and the next question would be, how do the lower performing schools create that cycle for themselves?  But alas, that also is not within our scope.
+
