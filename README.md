@@ -18,3 +18,5 @@ technologis used -
  
  ![Charts](https://github.com/prakashricha/Factors-Contributing-In-Graduation-Rate/blob/master/graph/combined_demo.png)
  
+ ![Charts](https://github.com/prakashricha/Factors-Contributing-In-Graduation-Rate/blob/master/graph/grad_vs_total_mean_income.png)
+ 
