@@ -14,3 +14,5 @@ Cities considered for analysis are  Hoboken, Clifton, Summit, Princeton,and Brid
 
 technologis used -
  Jupyter Notebook, Census API, Python, Python Pandas,  Matplotlib, Git
+ ![Charts](https://github.com/prakashricha/Factors-Contributing-In-Graduation-Rate/blob/master/graph/combined_demo.png)
+ 
